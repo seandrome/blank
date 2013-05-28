@@ -1,0 +1,4 @@
+web1:
+  name: wp-web
+  zend_extensions:
+   -ioncube_loader
